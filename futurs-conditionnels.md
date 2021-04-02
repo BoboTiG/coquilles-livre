@@ -9,12 +9,12 @@
 
 2 erreurs :
 
-> Ce recueil sombre vous amènera *ç* vous poser la question :
+> Ce recueil sombre vous amènera **ç** vous poser la question :
 
-> Et si j'*a*tais à leur place"
+> Et si j' **a**tais à leur place
 
 ## Page 205
 
 1 erreur dans le dernier paragraphe :
 
-> Jugeant les symptômes ~~de~~ qu'il présentait...
+> Jugeant les symptômes ~~de~~ qu'il présentait (...)
