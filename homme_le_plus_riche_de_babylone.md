@@ -3,6 +3,7 @@
 - Auteur : George S. Clason
 - Date de rapport : `2021-04-xx`
 - Contact : TODO
+- Corrections prises en compte : ✔
 
 ---
 
