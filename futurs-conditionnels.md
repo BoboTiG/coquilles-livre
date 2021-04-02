@@ -1,7 +1,7 @@
 # [Futurs conditionnels](https://www.goodreads.com/book/show/56857593-futurs-conditionnels)
 - Auteure : Khalysta Farall
 - Date de rapport : `2021-02-21`
-- Contact : auteure via Twitter ([KhalystaF](https://twitter.com/KhalystaF))
+- Contact : auteure via Twitter ([@KhalystaF](https://twitter.com/KhalystaF))
 
 ---
 
