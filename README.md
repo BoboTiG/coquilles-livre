@@ -10,6 +10,6 @@ Liste des livres (ordre alphabétique) :
 4. ✔ [L'homme le plus riche de Babylone](homme_le_plus_riche_de_babylone.md)
 
 Légende :
-- ✔ Correction à envoyer.
+- ✔ Corrections à envoyer.
 - ✅ Corrections envoyées et prises en compte.
 - ❌ Correction envoyées et ignorées.
