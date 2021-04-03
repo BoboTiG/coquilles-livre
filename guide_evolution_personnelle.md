@@ -32,7 +32,7 @@ Et de manière générale, dans tous les encadrés, uniformisation des espaces e
 ## Page 34
 
 > Ces informations n’ont pas pour visée d’être<br>
-> (…)
+> (…)<br>
 > de la Médecine **t**raditionnelle **c**hinoise.
 
 Lettres capitales pour "traditionnelle" et "chinoise".
@@ -40,12 +40,13 @@ Lettres capitales pour "traditionnelle" et "chinoise".
 
 ## Page 42
 
+> (…)<br>
 > chakras en se centrant sur la libération des blocages<br>
 > et**,** la circulation de l'énergie dans le corps.
 
 La virgule sembe de trop ?
 
-> (…)
+> (…)<br>
 > mêmes. Cela **impacte** notre santé et notre vitalité.
 
 Le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cite_ref-2), tu pourrais le remplacer par un synonyme (la page du Wiktionnaire a quelques exemples).
