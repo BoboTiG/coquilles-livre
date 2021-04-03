@@ -9,27 +9,35 @@
 
 ## Page 242
 
-> Juché sur son Lyrax blanc, (...)
-> **re- courbé** ; ses muscules demandaient (...)
+> (...)<br>
+> sa hache à une main, d’une dague incurvée de runes et d’un arc<br>
+> **re- courbé** ; ses muscules demandaient grâce pour une trève bien<br>
+> méritée, mais il les ignorait.
 
 ## Page 244
 
-> La Grande Guerre laissait des séquelles (...)
-> **dem- ander** : (...)
+> (...)<br>
+> par l'injustice. C’est elle qui devait le punir. Mais peut-être aussi lui<br>
+> **dem- ander** : « Pourquoi as-tu fais ça ?! N’étions-nous pas mariés<br>
+> (...)
 
 ## Page 266
 
-> - Je sais, je sais, l'intelligence est le (...)
+> – Je sais, je sais, l'intelligence est le (...)<br>
 > **In- ingo** ! J'espère d'ailleurs que tu (...)
 
 ## Page 320
 
-inju- stice
+> Elle hocha gravement la tête (...)<br>
+> **inju- stice** ! Logiquement, le rôle de chouchou (...)
 
 ## Page 332
 
-tyto alba devrait être en majuscule
+> (...) La **t**yto **a**lba fixait le plafond (...)
+
+Page 336, "Tyto Alba" comporte des lettres capitales, peut-être sont-elles manquantes ici ?
 
 ## Page 339
 
-d' en fin de ligne
+> Il ouvrit la porte cette fois, les fenêtres de la chambre **d’**<br>
+> Effraie étant toutes fermées. (...)
