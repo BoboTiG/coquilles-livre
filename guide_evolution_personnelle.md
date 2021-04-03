@@ -24,7 +24,7 @@ Ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" 
 Dans l'encadrement, il manque un retour à la ligne :
 
 > – Boire beaucoup d'eau et limiter les aliments et<br>
-> boissons acides. – Manger des légumes vers, des<br>
+> boissons acides. – Manger des légumes verts, des<br>
 > salades et aliments crus.
 
 Et de manière générale, dans tous les encadrés, uniformisation des espaces en début de phrase.
