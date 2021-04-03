@@ -9,35 +9,43 @@
 
 ## Page 242
 
-> (...)<br>
+> (…)<br>
 > sa hache à une main, d’une dague incurvée de runes et d’un arc<br>
 > **re- courbé** ; ses muscules demandaient grâce pour une trève bien<br>
 > méritée, mais il les ignorait.
 
 ## Page 244
 
-> (...)<br>
+> (…)<br>
 > par l'injustice. C’est elle qui devait le punir. Mais peut-être aussi lui<br>
 > **dem- ander** : « Pourquoi as-tu fais ça ?! N’étions-nous pas mariés<br>
-> (...)
+> (…)
 
 ## Page 266
 
-> – Je sais, je sais, l'intelligence est le (...)<br>
-> **In- ingo** ! J'espère d'ailleurs que tu (...)
+> – Je sais, je sais, l’intelligence est le propre de la Chouette<br>
+> **In- ingo** ! J’espère d'ailleurs que tu comptes améliorer tes notes cette<br>
+> année.
 
 ## Page 320
 
-> Elle hocha gravement la tête (...)<br>
-> **inju- stice** ! Logiquement, le rôle de chouchou (...)
+> (…)<br>
+> la jalousait. Lui ne bénéficiait pas de tant d'affection… Quelle<br>
+> **inju- stice** ! Logiquement, le rôle de chouchou lui revenait. Pour-<br>
+> (…)
 
 ## Page 332
 
-> (...) La **t**yto **a**lba fixait le plafond (...)
+> (…)<br>
+> fitait de son lit à baldaquin… La **t**yto **a**lba fixait le plafond rêveu-<br>
+> sement.
 
 Page 336, "Tyto Alba" comporte des lettres capitales, peut-être sont-elles manquantes ici ?
 
 ## Page 339
 
-> Il ouvrit la porte cette fois, les fenêtres de la chambre **d’**<br>
-> Effraie étant toutes fermées. (...)
+> &nbsp;&nbsp;&nbsp;&nbsp; Il ouvrit la porte cette fois, les fenêtres de la chambre **d’**<br>
+> Effraie étant toutes fermées. Jean-Boniface ne parvint pas à suivre<br>
+> (…)
+
+Une apostrophe en fin de phrase est-elle autorisée ?
