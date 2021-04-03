@@ -2,6 +2,12 @@
 
 Détails des erreurs trouvées dans les livres, et parfois reportées aux auteurs ou à la maison d'édition.
 
+---
+
+Caractères utiles pour les rapports : `«»…’–`
+
+---
+
 Liste des livres (ordre alphabétique) :
 
 1. ✔ [Almach' Sabrelune, tome 1 : Voyage à bord du Sangcuivré](almach_sabrelune-t1-voyage_a_bord_du_sangcuivre.md)
