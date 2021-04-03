@@ -3,9 +3,9 @@
 - Auteure : Mishakal Yveldir
 - Type : papier
 - Date de rapport : `2021-04-03`
-- Date de réponse : ``
+- Date de réponse : `2021-04-03`
 - Contact : [mishakal.yveldir@gmail.com](mailto:mishakal.yveldir@gmail.com) depuis https://mishakalyveldir.editions-cenusia.com
-- Corrections prises en compte : ✔
+- Corrections prises en compte : ✅
 
 ---
 
