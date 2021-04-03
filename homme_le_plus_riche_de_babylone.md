@@ -2,6 +2,7 @@
 - ISBN : `9781607964254`
 - Auteur : George S. Clason
 - Date de rapport : `2021-04-xx`
+- Date de réponse : ``
 - Contact : TODO
 - Corrections prises en compte : 📝
 
