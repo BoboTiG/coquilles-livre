@@ -19,11 +19,8 @@
 
 Ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" ?
 
-## Page 22
-
-nous tomboms malades -> "s" à malade ?
-
 ## Page 25
+
 Dans l'encadrement, il manque un retour à la ligne
 
 Dans tous les encadrés, uniformisation des espaces en début de phrase.
