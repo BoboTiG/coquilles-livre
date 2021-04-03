@@ -11,6 +11,6 @@
 
 ## Chapitre 31
 
-> &nbsp;&nbsp;&nbsp;&nbsp; Stanton ne semblait pas avoir **étendu** la voix dans sont talkie-<br>
+> &nbsp;&nbsp;&nbsp;&nbsp; Stanton ne semblait pas avoir **étendu** la voix dans son talkie-<br>
 > walkie. Il continuait à parler pour lui-même :
 > (…)
