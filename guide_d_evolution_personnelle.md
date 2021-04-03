@@ -1,9 +1,9 @@
-# [Guide d'évolution personnelle](https://www.goodreads.com/book/show/56936162-guide-d-volution-personnelle)
+# [Guide d’évolution personnelle](https://www.goodreads.com/book/show/56936162-guide-d-volution-personnelle)
 - ISBN : `9782956684435`
 - Auteure : Kelly Anaeh
 - Date de rapport : `2021-04-xx`
 - Contact : TODO
-- Corrections prises en compte : ✔
+- Corrections prises en compte : 📝
 
 ---
 
@@ -29,7 +29,7 @@ Manque majuscule à "traditionnelle chinoise"
 
 première phrase contient une virgule de trop
 
-Verbe impacter qui n'existe pas.
+Verbe impacter qui n’existe pas.
 
 ## Page 68
 
