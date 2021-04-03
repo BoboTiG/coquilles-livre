@@ -2,6 +2,7 @@
 - ISBN : `9782490348190`
 - Auteure : Mishakal Yveldir
 - Date de rapport : `2021-04-03`
+- Date de réponse : ``
 - Contact : [mishakal.yveldir@gmail.com](mailto:mishakal.yveldir@gmail.com) depuis https://mishakalyveldir.editions-cenusia.com
 - Corrections prises en compte : ✔
 
