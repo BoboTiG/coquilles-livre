@@ -21,21 +21,39 @@ Ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" 
 
 ## Page 25
 
-Dans l'encadrement, il manque un retour à la ligne
+Dans l'encadrement, il manque un retour à la ligne :
 
-Dans tous les encadrés, uniformisation des espaces en début de phrase.
+> – Boire beaucoup d'eau et limiter les aliments et<br>
+> boissons acides. – Manger des légumes vers, des<br>
+> salades et aliments crus.
+
+Et de manière générale, dans tous les encadrés, uniformisation des espaces en début de phrase.
 
 ## Page 34
 
-Manque majuscule à "traditionnelle chinoise"
+> Ces informations n’ont pas pour visée d’être<br>
+> (…)
+> de la Médecine **t**raditionnelle **c**hinoise.
+
+Lettres capitales pour "traditionnelle" et "chinoise".
 
 
 ## Page 42
 
-première phrase contient une virgule de trop
+> chakras en se centrant sur la libération des blocages<br>
+> et**,** la circulation de l'énergie dans le corps.
 
-Verbe impacter qui n’existe pas.
+La virgule sembe de trop ?
+
+> (…)
+> mêmes. Cela **impacte** notre santé et notre vitalité.
+
+Le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cite_ref-2), tu pourrais le remplacer par un synonyme (la page du Wiktionnaire a quelques exemples).
 
 ## Page 68
 
-qui nous font -> faut ?
+> &nbsp;&nbsp;&nbsp;&nbsp; C'est au centre même de cet inconscient qu’il**s**<br>
+> nous **font** plonger pour comprendre les mécanismes<br>
+> que nous avons mis en place. (…)
+
+Je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ? 
