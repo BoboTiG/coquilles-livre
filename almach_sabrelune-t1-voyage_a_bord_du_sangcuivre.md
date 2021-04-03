@@ -50,4 +50,4 @@ Page 336, "Tyto Alba" comporte des lettres capitales, peut-être sont-elles manq
 > Effraie étant toutes fermées. Jean-Boniface ne parvint pas à suivre<br>
 > (…)
 
-Une apostrophe en fin de ligne n'est [pas autorisée](https://fr.wikipedia.org/wiki/C%C3%A9sure_(typographie)#R%C3%A8gles_relatives_%C3%A0_l%E2%80%99apostrophe_d%E2%80%99%C3%A9lision).
+Une apostrophe en fin de ligne n’est [pas autorisée](https://fr.wikipedia.org/wiki/C%C3%A9sure_(typographie)#R%C3%A8gles_relatives_%C3%A0_l%E2%80%99apostrophe_d%E2%80%99%C3%A9lision).
