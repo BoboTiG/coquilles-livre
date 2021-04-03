@@ -11,7 +11,13 @@
 
 ## Page 21
 
-"les tableaux ci- dessous" -> page suivante, ci-après, ...
+> Les principaux organes en MTC sont le cœur, les<br>
+> poumons, les reins, le foie et la rate. Chacun est en<br>
+> lien avec des viscères comme précisé dans les tableaux<br>
+> **ci-dessous**. Ils ne peuvent fonctionner<br>
+> (…)
+
+Ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" ?
 
 ## Page 22
 
