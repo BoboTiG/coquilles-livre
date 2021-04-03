@@ -9,15 +9,18 @@
 
 ## Page 242
 
-re- courbé en début de ligne
+> Juché sur son Lyrax blanc, (...)
+> **re- courbé** ; ses muscules demandaient (...)
 
 ## Page 244
 
-dem- ander en début de phase
+> La Grande Guerre laissait des séquelles (...)
+> **dem- ander** : (...)
 
 ## Page 266
 
-In- ingo en début de phase
+> - Je sais, je sais, l'intelligence est le (...)
+> **In- ingo** ! J'espère d'ailleurs que tu (...)
 
 ## Page 320
 
