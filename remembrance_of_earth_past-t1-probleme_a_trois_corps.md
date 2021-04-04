@@ -20,5 +20,5 @@
 > – Ajustez en trois dimensions.<br>
 > (…)<br>
 > – Ajustement en **quatre** dimensions terminé. Intellectron 1<br>
-> en attente des instructions.
+> en attente des instructions.<br>
 > – Ajustez en quatre dimensions.
