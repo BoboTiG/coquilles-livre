@@ -4,7 +4,7 @@ Détails des erreurs trouvées dans les livres, et parfois reportées aux auteur
 
 ---
 
-Caractères utiles pour les rapports : `« » … ’ – œ æ`
+Caractères utiles pour les rapports : `« » “ ” … ’ – œ æ`
 
 ---
 
