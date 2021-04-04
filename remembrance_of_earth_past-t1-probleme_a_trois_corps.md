@@ -12,5 +12,13 @@
 ## Chapitre 31
 
 > &nbsp;&nbsp;&nbsp;&nbsp; Stanton ne semblait pas avoir **étendu** la voix dans son talkie-<br>
-> walkie. Il continuait à parler pour lui-même :
+> walkie. Il continuait à parler pour lui-même :<br>
 > (…)
+
+## Chapitre 33
+
+> – Ajustez en trois dimensions.<br>
+> (…)<br>
+> – Ajustement en **quatre** dimensions terminé. Intellectron 1<br>
+> en attente des instructions.
+> – Ajustez en quatre dimensions.
