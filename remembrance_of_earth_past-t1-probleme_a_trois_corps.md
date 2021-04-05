@@ -1,8 +1,7 @@
 # [Le problème à trois corps](https://www.goodreads.com/book/show/32079662-le-probl-me-trois-corps)
 - ISBN : `978-2-330-07103-5`
 - Auteur :  Liu Cixin
-- Type : numérique
-- Corrections prises en compte : ✔
+- Format : numérique
 
 ---
 
