@@ -2,7 +2,6 @@
 - ISBN : `978-2-490-34819-0`
 - Auteure : Mishakal Yveldir
 - Type : papier
-- Corrections prises en compte : ✅
 
 ---
 
