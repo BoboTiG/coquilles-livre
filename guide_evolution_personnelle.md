@@ -2,7 +2,6 @@
 - ISBN : `978-2-956-68443-5`
 - Auteure : Kelly Anaeh
 - Type : papier
-- Corrections prises en compte : 📝
 
 ---
 
