@@ -11,13 +11,15 @@
 
 ## Chapitre 31
 
+Coquille : "étendu" -> "entendu" ?
+
 > &nbsp;&nbsp;&nbsp;&nbsp; Stanton ne semblait pas avoir **étendu** la voix dans son talkie-<br>
 > walkie. Il continuait à parler pour lui-même :<br>
 > (…)
 
 ## Chapitre 33
 
-Erreur 1 :
+Coquille 1 : "quatre" -> "trois" ?
 
 > – Ajustez en trois dimensions.<br>
 > (…)<br>
@@ -25,7 +27,7 @@ Erreur 1 :
 > en attente des instructions.<br>
 > – Ajustez en quatre dimensions.
 
-Erreur 2 :
+Coquille 2 : "no tre" -> "notre"
 
 > Pas “à travers”, chancelier, c'est plutôt comme s’il entrait<br>
 > (…)<br>
