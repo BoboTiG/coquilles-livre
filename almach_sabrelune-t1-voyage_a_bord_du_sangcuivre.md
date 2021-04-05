@@ -2,9 +2,6 @@
 - ISBN : `9782490348190`
 - Auteure : Mishakal Yveldir
 - Type : papier
-- Date de rapport : `2021-04-03`
-- Date de réponse : `2021-04-03`
-- Contact : [mishakal.yveldir@gmail.com](mailto:mishakal.yveldir@gmail.com) depuis https://mishakalyveldir.editions-cenusia.com
 - Corrections prises en compte : ✅
 
 ---
@@ -51,3 +48,46 @@ Page 336, "Tyto Alba" comporte des lettres capitales, peut-être sont-elles manq
 > (…)
 
 Une apostrophe en fin de ligne n’est [pas autorisée](https://fr.wikipedia.org/wiki/C%C3%A9sure_(typographie)#R%C3%A8gles_relatives_%C3%A0_l%E2%80%99apostrophe_d%E2%80%99%C3%A9lision).
+
+---
+
+# Correspondance
+
+`2021-04-03`, via [mishakal.yveldir@gmail.com](mailto:mishakal.yveldir@gmail.com) depuis https://mishakalyveldir.editions-cenusia.com.
+
+> Bonjour Mishakal,<br>
+> <br>
+> J'ai terminé le tome 1 d'Almach' Sabrelune et j'ai adoré !<br>
+> J'espère que la suite prendra vie, l'histoire est vraiment bien :)<br>
+> <br>
+> J'ai repéré quelques coquilles par-ci, par-là. Je ne suis pas certain que toutes soient des "erreurs" (c'est un bien grand mot). Je me permets tout de même de t'en informer, si jamais ça peut aider ^^<br>
+> <br>
+> Voici le résumé ici : https://gist.github.com/BoboTiG/06be93f8d408a094e483f79471bbbf61<br>
+> Ce sont des notes, ça manque de sentiment, surtout ne prends rien trop à coeur, l'idée est que ce soit informel.<br>
+> Ce qui est en gras représente la coquille.<br>
+> <br>
+> Normalement, tu n'as pas besoin de compte pour accéder à cette page, elle est privée et personne d'autre n'y aura accès.<br>
+> <br>
+> Bonne continuation,<br>
+> <br>
+> Mickaël
+
+Sa réponse :
+
+> Hello ! Il n'y a que Tyto Alba qui soit en minuscules que je relève. Le reste, c'est l'imprimeur qui n'a pas respecté le format qui calculait la césure au mot près. J'ai eu de gros déboires avec eux donc je ne travaillerai plus avec CPI.<br>
+> <br>
+> Contente que tu aimes ! Le premier Chapitre du Tome 2 est rédigé. Toutefois, j'essaie de boucler 30 Convives et d'honorer les rééditions prévues avant de m'y remettre pleinement.<br>
+> <br>
+> Bon week-end !<br>
+> <br>
+> Misha
+
+Ma Réponse :
+
+> J'imaginais bien qu'il s'agissait d'une soucis ailleurs que dans ton texte ;)<br>
+> <br>
+Bon week-end et au plaisir de te lire !
+
+Sa réponse :
+
+> Merci ! Je posterai une petite nouvelle qui se déroule dans l'univers prochainement.
