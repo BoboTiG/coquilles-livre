@@ -2,9 +2,6 @@
 - ISBN : `9782956684435`
 - Auteure : Kelly Anaeh
 - Type : papier
-- Date de rapport : `2021-04-xx`
-- Date de réponse : ``
-- Contact : TODO
 - Corrections prises en compte : 📝
 
 ---
@@ -57,4 +54,10 @@ Le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cit
 > nous **font** plonger pour comprendre les mécanismes<br>
 > que nous avons mis en place. (…)
 
-Je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ? 
+Je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ?
+
+---
+
+# Correspondance
+
+`2021-xx-xx`, via xxx.
