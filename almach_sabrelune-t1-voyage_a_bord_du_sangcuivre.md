@@ -1,5 +1,5 @@
 # [Voyage à bord du Sangcuivré](https://www.goodreads.com/book/show/57116662-voyage-bord-du-sangcuivr)
-- ISBN : `9782490348190`
+- ISBN : `978-2-490-34819-0`
 - Auteure : Mishakal Yveldir
 - Type : papier
 - Corrections prises en compte : ✅
