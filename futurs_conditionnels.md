@@ -2,7 +2,6 @@
 - ISBN : `978-2-957-30890-3`
 - Auteure : Khalysta Farall
 - Type : papier
-- Corrections prises en compte : ✅
 
 ---
 
