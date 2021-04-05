@@ -2,9 +2,14 @@
 - ISBN : ``
 - Auteur : 
 - Type : papier
-- Date de rapport : ``
-- Date de réponse : ``
-- Contact : TODO
 - Corrections prises en compte : 📝
 
 ---
+
+## 
+
+> 
+
+---
+# Correspondance
+`2021-xx-xx`, via xxx.
