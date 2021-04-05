@@ -1,8 +1,7 @@
 # [Titre](https://www.goodreads.com/book/show/)
 - ISBN : `xxx-x-xxx-xxxxx-x`
-- Auteur : 
+- Auteur(e) : 
 - Type : papier ou numérique
-- Corrections prises en compte : 📝
 
 ---
 
