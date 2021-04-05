@@ -1,7 +1,7 @@
 # [Futurs conditionnels](https://www.goodreads.com/book/show/56857593-futurs-conditionnels)
 - ISBN : `978-2-957-30890-3`
 - Auteure : Khalysta Farall
-- Type : papier
+- Format : papier
 
 ---
 
