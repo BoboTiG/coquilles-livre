@@ -1,7 +1,7 @@
 # [Guide d’évolution personnelle](https://www.goodreads.com/book/show/56936162-guide-d-volution-personnelle)
 - ISBN : `978-2-956-68443-5`
 - Auteure : Kelly Anaeh
-- Type : papier
+- Format : papier
 
 ---
 
