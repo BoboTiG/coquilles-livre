@@ -36,31 +36,39 @@ Lettres capitales pour "traditionnelle" et "chinoise".
 
 ## Page 42
 
+Coquille 1 : la virgule sembe de trop ?
+
 > (…)<br>
 > chakras en se centrant sur la libération des blocages<br>
 > et**,** la circulation de l'énergie dans le corps.
 
-La virgule sembe de trop ?
+Coquille 2 : le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cite_ref-2), tu pourrais le remplacer par un synonyme (la page du Wiktionnaire a quelques exemples).
 
 > (…)<br>
 > mêmes. Cela **impacte** notre santé et notre vitalité.
 
-Le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cite_ref-2), tu pourrais le remplacer par un synonyme (la page du Wiktionnaire a quelques exemples).
-
 ## Page 68
+
+Coquille : je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ?
 
 > &nbsp;&nbsp;&nbsp;&nbsp; C'est au centre même de cet inconscient qu’il**s**<br>
 > nous **font** plonger pour comprendre les mécanismes<br>
 > que nous avons mis en place. (…)
 
-Je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ?
-
 ## Page 77
+
+Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu'il est interdit de les faire précéder par une virgule ou un point-virgule.
 
 > Avez-vous peur des formes d’autorité (gendarme,<br>
 > police, manager~~,~~...) ?
 
-La [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu'il est interdit de les faire précéder par une virgule ou un point-virgule.
+## Page 78
+
+Coquille : "sous développé" -> "sous-développé"
+
+> > Un corps qui manque de tonus, long, mince. Un<br>
+> système musculaire **sous développé**, comme si le<br>
+> (…)
 
 
 ---
