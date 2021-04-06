@@ -63,11 +63,15 @@ Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Po
 
 ## Page 78
 
-Coquille : "sous développé" -> "sous-développé"
+- Coquille 1 : "sous développé" -> "sous-développé".
+- Coquille 2 : "avant" -> "avait"
+- Coquille 3 : il manque un point aux points de suspension
 
-> > Un corps qui manque de tonus, long, mince. Un<br>
+> Un corps qui manque de tonus, long, mince. Un<br>
 > système musculaire **sous développé**, comme si le<br>
-> (…)
+> corps **avant** besoin d'aide pour tenir droit (besoin de<br>
+> soutien). Certaines parties du corps tombantes ou<br>
+> molles (joues, fesses, seins, jambes**..**).
 
 
 ---
