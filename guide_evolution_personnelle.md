@@ -55,6 +55,14 @@ Le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki/impacter#cit
 
 Je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ?
 
+## Page 77
+
+> Avez-vous peur des formes d’autorité (gendarme,<br>
+> police, manager~~,~~...) ?
+
+La [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu'il est interdit de les faire précéder par une virgule ou un point-virgule.
+
+
 ---
 
 # Correspondance
