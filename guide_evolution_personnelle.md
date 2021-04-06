@@ -7,13 +7,13 @@
 
 ## Page 21
 
+Coquille : ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" ?
+
 > Les principaux organes en MTC sont le cœur, les<br>
 > poumons, les reins, le foie et la rate. Chacun est en<br>
 > lien avec des viscères comme précisé dans les tableaux<br>
 > **ci-dessous**. Ils ne peuvent fonctionner<br>
 > (…)
-
-Ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" ?
 
 ## Page 25
 
@@ -27,12 +27,11 @@ Et de manière générale, dans tous les encadrés, uniformisation des espaces e
 
 ## Page 34
 
+Coquille : lettres capitales manquantes pour "traditionnelle" et "chinoise".
+
 > Ces informations n’ont pas pour visée d’être<br>
 > (…)<br>
 > de la Médecine **t**raditionnelle **c**hinoise.
-
-Lettres capitales pour "traditionnelle" et "chinoise".
-
 
 ## Page 42
 
