@@ -73,6 +73,24 @@ Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Po
 > soutien). Certaines parties du corps tombantes ou<br>
 > molles (joues, fesses, seins, jambes**..**).
 
+## Page 80
+
+Coquille : "coup" -> "cou"
+
+> Un corps en rondeur qui vous fait honte ou juste une<br>
+> partie (ventre, fesses, seins), une taille courte, un<br>
+> **coup** gros et bombé, des tensions au niveau du **coup**,<br>
+> de la gorge et des mâchoires, un visage rond.
+
+## Page 84
+
+## Page 85
+
+## Page 86
+
+## Page 88
+
+## Page 90
 
 ---
 
