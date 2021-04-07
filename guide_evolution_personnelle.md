@@ -88,7 +88,7 @@ Coquille : d’après la [règle](https://fr.wikipedia.org/wiki/Guillemet#Usage_
 
 > Cette blessure crée un besoin d'indépendance. Elle<br>
 > peut engendrer une peur de se tromper et le masque<br>
-> du rigide sert de protection. La croyance associées est **«**<br>
+> du rigide sert de protection. La croyance associée est **«**<br>
 > Je dois être parfait pour être aimé ».
 
 ## Page 85
