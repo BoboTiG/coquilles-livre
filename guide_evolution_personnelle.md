@@ -109,9 +109,13 @@ Coquille double : "court mon intuition" -> "cours à mon intuition"
 > laissant libre **court mon intuition** pour vous apporter<br>
 > des messages plus ciblés, et une touche positive. (…)
 
-## Page 88
+## Page 89
 
-## Page 90
+Coquille : "nous-mêmes" -> "nous-même", d’après la [règle](https://dictionnaire.orthodidacte.com/article/orthographe-nous-meme). Il se peut que la même erreur soit présente dans d'autres pages.
+
+> relations affectueuses avec nos proches sans avoir<br>
+> beaucoup d’estime pour **nous-mêmes**. Mais si nous<br>
+> (…)
 
 ---
 
