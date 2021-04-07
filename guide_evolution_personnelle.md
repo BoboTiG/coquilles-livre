@@ -84,6 +84,13 @@ Coquille : "coup" -> "cou"
 
 ## Page 84
 
+Coquille : d’après la [règle](https://fr.wikipedia.org/wiki/Guillemet#Usage_en_fran%C3%A7ais), un guillement ne doit pas être placé en fin de ligne (une espace insécable permettra d’éviter ça) : "En français, on sépare les guillemets typographiques ou français (« ») de l’expression qu’ils mettent en exergue par une espace insécable."
+
+> Cette blessure crée un besoin d'indépendance. Elle<br>
+> peut engendrer une peur de se tromper et le masque<br>
+> du rigide sert de protection. La croyance associées est **«**<br>
+> Je dois être parfait pour être aimé ».
+
 ## Page 85
 
 ## Page 86
