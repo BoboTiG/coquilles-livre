@@ -17,9 +17,9 @@ Coquille : ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages 
 
 ## Page 25
 
-Dans l'encadrement, il manque un retour à la ligne :
+Dans l’encadrement, il manque un retour à la ligne :
 
-> – Boire beaucoup d'eau et limiter les aliments et<br>
+> – Boire beaucoup d’eau et limiter les aliments et<br>
 > boissons acides. – Manger des légumes verts, des<br>
 > salades et aliments crus.
 
@@ -48,15 +48,15 @@ Coquille 2 : le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki
 
 ## Page 68
 
-Coquille : je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l'expression appropriée ?
+Coquille : je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l’expression appropriée ?
 
-> &nbsp;&nbsp;&nbsp;&nbsp; C'est au centre même de cet inconscient qu’il**s**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp; C’est au centre même de cet inconscient qu’il**s**<br>
 > nous **font** plonger pour comprendre les mécanismes<br>
 > que nous avons mis en place. (…)
 
 ## Page 77
 
-Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu'il est interdit de les faire précéder par une virgule ou un point-virgule.
+Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu’il est interdit de les faire précéder par une virgule ou un point-virgule.
 
 > Avez-vous peur des formes d’autorité (gendarme,<br>
 > police, manager~~,~~...) ?
@@ -69,7 +69,7 @@ Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Po
 
 > Un corps qui manque de tonus, long, mince. Un<br>
 > système musculaire **sous développé**, comme si le<br>
-> corps **avant** besoin d'aide pour tenir droit (besoin de<br>
+> corps **avant** besoin d’aide pour tenir droit (besoin de<br>
 > soutien). Certaines parties du corps tombantes ou<br>
 > molles (joues, fesses, seins, jambes**..**).
 
@@ -86,14 +86,28 @@ Coquille : "coup" -> "cou"
 
 Coquille : d’après la [règle](https://fr.wikipedia.org/wiki/Guillemet#Usage_en_fran%C3%A7ais), un guillement ne doit pas être placé en fin de ligne (une espace insécable permettra d’éviter ça) : "En français, on sépare les guillemets typographiques ou français (« ») de l’expression qu’ils mettent en exergue par une espace insécable."
 
-> Cette blessure crée un besoin d'indépendance. Elle<br>
+> Cette blessure crée un besoin d’indépendance. Elle<br>
 > peut engendrer une peur de se tromper et le masque<br>
 > du rigide sert de protection. La croyance associée est **«**<br>
 > Je dois être parfait pour être aimé ».
 
 ## Page 85
 
+Coquille : "lorsqu’on" -> "lorsque"
+
+> (…)<br>
+> possédez une grande force de travail. **Lorsqu’on** vous<br>
+> entrepenez quelque chose, vous allez droit au bout des choses. Que ce<br>
+> (…)
+
 ## Page 86
+
+Coquille double : "court mon intuition" -> "cours à mon intuition"
+
+> Lise Bourbeau offre une première compréhension des<br>
+> blessures d'enfance. Je m’en suis inspirée, tout en<br>
+> laissant libre **court mon intuition** pour vous apporter<br>
+> des messages plus ciblés, et une touche positive. (…)
 
 ## Page 88
 
