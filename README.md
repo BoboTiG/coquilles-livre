@@ -14,6 +14,7 @@ Liste des livres (ordre alphabétique) :
 2. ✅ [Futurs conditionnels](futurs_conditionnels.md)
 3. 📝 [Guide d’évolution personnelle – Comprendre, Guérir, Créer](guide_evolution_personnelle.md)
 4. ✔ [Remembrance of Earth's Past, tome 1 – Le problème à trois corps](remembrance_of_earth_past-t1-probleme_a_trois_corps.md)
+5. 📝 [Remembrance of Earth's Past, tome 2 – Le forêt sombre](remembrance_of_earth_past-t2-foret_sombre.md)
 
 Légende :
 - 📝 Corrections à envoyer.
