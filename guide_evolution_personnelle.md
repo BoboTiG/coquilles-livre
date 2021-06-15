@@ -8,6 +8,8 @@
 ## Général
 
 - Utiliser l'elipsis plutôt que 3 petits points ("..." -> "…").
+- Utiliser un espace insécable avant "?", "!", ":", ";", "…" et avant/après le texte dans les guillemets.
+- Quand tu cites un livre, tu mets "Ed J'ai Lu", par exemple. Ne serait-il pas préférable de faire "Éd." ou carrément "Éditions", voire "aux éditions" ?
 
 ## Pages 21 et 110
 
@@ -259,6 +261,28 @@ Coquille : "trois" -> "quatre"
 Coquille : "d’" est manquant
 
 > Nous vibrons **d’**une énergie nouvelle qui amène
+
+## Page 179
+
+Coquille : "coeur" -> "cœur"
+
+## Page 182
+
+Coquille 1 : lettre capitale manquante
+
+> Vous pouvez trouver dans le livre **l**es cinq saisons de
+
+Coquille 2 : virugle en trop ?
+
+> cycle~~,~~ est primordial pour pouvoir évoluer. (…)
+
+Coquille 3 : virgule en trop ?
+
+> sa propre vie~~,~~ amène à progresser sans cesse. (…)
+
+## Page 185
+
+Coquille : lettre capitale manquante à "instagram".
 
 ---
 
