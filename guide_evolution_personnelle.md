@@ -162,6 +162,36 @@ Coquille 2 : "est primrodial" -> "sont primordiaux"
 > Notre rapport au corps et le fait d'en prendre soint **est**<br>
 > **primordial**. (…)
 
+## Page 129
+
+Coquille : "née" -> "naît"
+
+> (…) Notre envie<br>
+> de création **née** dans la découverte de **nous-mêmes** et
+
+## Page 132
+
+Coquille 1 : "qui" -> "que"
+
+> Le corps n'est paq une machine **qui** nous devons
+
+Coquille 2 : une virtgule en trop ?
+
+> soin**,** est essential pour pouvoir se réaliser pleinement,
+
+## Page 134
+
+La formulation ne me semble pas super français :)
+
+> (…) Vous pouvez soit les<br>
+> utiliser soit d'une manière automatique ou bien vous<br>
+> amusez à développer le sens qui vous plaît le plus.
+
+## Page 135
+
+Proposition : "Le sixième sens l’intuition" -> Le sixième sens&nbsp;: l’intuition
+
+## Page 140
 
 ---
 
