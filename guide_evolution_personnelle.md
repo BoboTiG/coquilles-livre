@@ -193,6 +193,31 @@ Proposition : "Le sixième sens l’intuition" -> Le sixième sens&nbsp;: l’in
 
 ## Page 140
 
+Coquille : virgule manquante
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Un outil précieux pour se reconnecter à son corps,<br>
+> et en prendre soin**,** est notre réspiration. (…)
+
+## Page 144
+
+Coquille : Une virgule de trop ?
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Campbell appelle cette étape**,** le refus de retour. (…)
+
+## Page 145
+
+Coquille : "était" -> "est" ?
+
+> quelqu'un, n'**était**-il de le voir heureux ?
+
+
+## Page 147
+
+Coquille : "à termes" -> "à terme"
+
+> ressentir à terme**s** de ce changement.
+
+
 ---
 
 # Correspondance
