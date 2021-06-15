@@ -5,7 +5,11 @@
 
 ---
 
-## Page 21
+## Général
+
+- Utiliser l'elipsis plutôt que 3 petits points ("..." -> "…").
+
+## Pages 21 et 110
 
 Coquille : ne faudrait-il pas dire "ci-après", "à venir" ou encore "des pages suivantes" ?
 
@@ -116,6 +120,48 @@ Coquille : "nous-mêmes" -> "nous-même", d’après la [règle](https://diction
 > relations affectueuses avec nos proches sans avoir<br>
 > beaucoup d’estime pour **nous-mêmes**. Mais si nous<br>
 > (…)
+
+## Page 103
+
+Coquille : "sacré" -> "sacrés"
+
+> (…) Pour<br>
+> une appréhension de ces notions, nous entrons dans le<br>
+> concept de masculin et féminin sacré qui est présent<br>
+> en chacun de nous.
+
+## Page 106
+
+> (…)<br>
+> proche de nous sera la première **impactée**.(…)
+
+## Page 109
+
+Dans le premier paragraphe, tu parles du MBTI. Serait-ce intéressant de donner le nom complet en plus de l'acronyme ?
+
+## Page 124
+
+Coquille 1 : "questionnaire" -> "questionnaires"
+
+> (…)<br>
+> questionnaire et le résultat qui en découle. (…)
+
+Coquille 2 : "peut" -> "peuvent"
+
+> (…) Notre environnement familial et social<br>
+> ainsi que la société **peut** nous amener à nous adapter
+
+## Page 128
+
+Coquille 1 : une virtgule en trop ?
+
+> La crise nous permet également**,** de revisiter
+
+Coquille 2 : "est primrodial" -> "sont primordiaux"
+
+> Notre rapport au corps et le fait d'en prendre soint **est**<br>
+> **primordial**. (…)
+
 
 ---
 
