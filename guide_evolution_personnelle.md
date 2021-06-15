@@ -288,4 +288,23 @@ Coquille : lettre capitale manquante à "instagram".
 
 # Correspondance
 
-`2021-xx-xx`, via xxx.
+`2021-06-15`, via kelly@schoentgen.com.
+
+> Yop !<br>
+> <br>
+> Féliciations, c'est un sacré guide que tu as écrit !<br>
+> <br>
+> Le contenu est nickel, et les dessins sont supers :D. Je fais la position de la grenouille maintenant, ça aide bien ;)<br>
+> <br>
+> Pour être franc, j'ai eu un temps d 'adaptation à partir du moment où il faut avoir une photo de soi à 6 ans et commencer à lui parler. Je pense que cette partie doit être faite quand la personne est prête. D'où le temps que j'ai mis à lire le bouquin en entier (j'ai commencé en février, tout de même). Mais cette semaine je me suis motivé tout seul et j'ai pu terminer. Comme tu le dis, certaines parties devraient être accompagnées par un thérapeute, mais on peut s'en sortir quand même sans, si on ne souhaite pas approfondir ou si on ne trouve rien "d'alarmant".<br>
+> <br>
+> J'ai repéré quelques coquilles par-ci, par-là. Je ne suis pas certain que toutes soient des "erreurs" (c'est un bien grand mot). Je me permets tout de même de t'en informer, si jamais ça peut aider ^^<br>
+> <br>
+> Voici le résumé ici (c'est privé, personne d'autre que toi ne peut voir ce lien) : https://gist.github.com/BoboTiG/0fcc968a9b5316acad10b9a1e64ebfdb<br>
+> Ce sont des notes, ça manque de sentiment, surtout ne prends rien trop à coeur, l'idée est que ce soit informel.<br>
+> Ce qui est en gras représente la coquille.<br>
+> <br>
+> Voilà, voilà, si tu as besoin je peux donner un coup de main pour les prochaines relectures et lire en avant-première tes oeuvres !<br>
+> <br>
+> <br>
+> Gros bisous et bonne continuation <3+++
