@@ -288,7 +288,7 @@ Coquille : lettre capitale manquante à "instagram".
 
 # Correspondance
 
-`2021-06-15`, via kelly@schoentgen.com.
+`2021-06-15`, via [kelly@schoentgen.com](mailto:kelly@schoentgen.com).
 
 > Yop !<br>
 > <br>
