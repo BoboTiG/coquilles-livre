@@ -12,7 +12,7 @@ Liste des livres (ordre alphabétique) :
 
 1. ✅ [Almach’ Sabrelune, tome 1 – Voyage à bord du Sangcuivré](almach_sabrelune-t1-voyage_a_bord_du_sangcuivre.md)
 2. ✅ [Futurs conditionnels](futurs_conditionnels.md)
-3. 📝 [Guide d’évolution personnelle – Comprendre, Guérir, Créer](guide_evolution_personnelle.md)
+3. ✔ [Guide d’évolution personnelle – Comprendre, Guérir, Créer](guide_evolution_personnelle.md)
 4. ✔ [Remembrance of Earth's Past, tome 1 – Le problème à trois corps](remembrance_of_earth_past-t1-probleme_a_trois_corps.md)
 5. 📝 [Remembrance of Earth's Past, tome 2 – Le forêt sombre](remembrance_of_earth_past-t2-foret_sombre.md)
 
