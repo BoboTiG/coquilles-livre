@@ -50,6 +50,8 @@ Coquille 2 : le verbe "impacter" n’[existe pas](https://fr.wiktionary.org/wiki
 > (…)<br>
 > mêmes. Cela **impacte** notre santé et notre vitalité.
 
+Idem page 161.
+
 ## Page 68
 
 Coquille : je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il nous faut" serait l’expression appropriée ?
@@ -58,7 +60,7 @@ Coquille : je ne suis pas certain de ce que j’avance, mais est-ce que "qu’il
 > nous **font** plonger pour comprendre les mécanismes<br>
 > que nous avons mis en place. (…)
 
-## Page 77
+## Pages 77, 152, 161, 178 et 179
 
 Coquille : la [règle des points de suspension](https://fr.wikipedia.org/wiki/Points_de_suspension#Normes_typographiques) dit qu’il est interdit de les faire précéder par une virgule ou un point-virgule.
 
@@ -208,8 +210,7 @@ Coquille : Une virgule de trop ?
 
 Coquille : "était" -> "est" ?
 
-> quelqu'un, n'**était**-il de le voir heureux ?
-
+> quelqu'un, n’**était**-il de le voir heureux ?
 
 ## Page 147
 
@@ -217,6 +218,47 @@ Coquille : "à termes" -> "à terme"
 
 > ressentir à terme**s** de ce changement.
 
+## Page 154
+
+Coquille 1 : "à l’Outil" -> "aux outils"
+
+> (…) Grâce **à l’Outil** 1, 2, 4
+
+Coquille 2 : "en" est absent
+
+> que l'ont est, **en** mettant en avant nos dons et nos talents,
+
+## Page 157
+
+Coquille 1 : "à" -> "a"
+Coquille 2 : une virgule en trop ?
+
+> une manière qu’**à** votre corps de vous dire~~,~~ que vou
+
+## Page 160
+
+Coquille : une virgule en trop ?
+
+> (…) Vos émotions~~,~~ sont-elles à fleur de peau, vous
+
+## Page 165
+
+Coquille : une virgule en trop ?
+
+> intuition. Par exemple : je demande à mon intuition~~,~~
+
+## Page 166
+
+Coquille : "trois" -> "quatre"
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Le chemin d’évolution de chacun pourrait se<br>
+> constituer de **trois** étapes :
+
+## Page 170
+
+Coquille : "d’" est manquant
+
+> Nous vibrons **d’**une énergie nouvelle qui amène
 
 ---
 
