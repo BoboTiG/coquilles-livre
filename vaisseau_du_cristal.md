@@ -9,7 +9,7 @@
 
 Coquille : "pour" ne serait-il pas de trop ?
 
-> &nbsp;&nbsp; &ldash; J'ai un prénom, lui reprocha ~~pour~~ la gamine<br>
+> &nbsp;&nbsp; &mdash; J'ai un prénom, lui reprocha ~~pour~~ la gamine<br>
 > pour la centième fois au moins.
 
 ---
