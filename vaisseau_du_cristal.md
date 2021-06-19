@@ -36,3 +36,7 @@ Coquille : "pour" ne serait-il pas de trop ?
 > [Elle] Ah zut, désolée pour les coquilles restantes. Je suis vraiment mauvaise à ça u\_\_\_u (et la correctrice que j'avais pris etait pas très bonne, j'ai dû tout refaire moi-même alors que c'est pas mon fort :smiling face with open mouth and cold sweat:)
 
 > [Moi] Non, non, ne t'excuse pas ! Je n'imagine pas la quantité de travail qu'un livre représente et c'est normal que certains détails passent au travers ;)
+
+> [Moi] Si jamais tu serais pour avoir un relecteur en plus, je suis preneur du "boulot", gratuitement, car ça me permettrait d'avoir de ssupers livres en avant-première tout en t'aidant dans ta tache. Si jamais tu trouves l'idée intéressante, tu sauras où me trouver (et j'insiste sur le côté sans rémunération, toi et moi y trouvons notre compte donc c'est wakatépé baboune).
+
+> [Moi] Et si ça peut te rassurer, 1 coquille (même pas une erreur de français, c'est un oubli bête) sur tout le livre, c'est nickel. La plupart, surtout les livres traduits, sont bourrés de fautes, c'est affligeant.
