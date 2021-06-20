@@ -6,7 +6,7 @@ Détails des erreurs trouvées dans les livres, et parfois reportées aux auteur
 
 Caractères utiles pour les rapports : `« » “ ” … ’ – œ æ`
 <br>
-*Smileys* utiles pour les retranscriptions des correspondances ([liste complète](http://www.unicode.org/emoji/charts/full-emoji-list.html)) : 😄 😅 😑 😉 🤗
+*Smileys* utiles pour les retranscriptions des correspondances ([liste complète](http://www.unicode.org/emoji/charts/full-emoji-list.html)) : `😄 😅 😑 😉 🤗`
 
 ---
 
