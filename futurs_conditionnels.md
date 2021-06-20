@@ -27,7 +27,7 @@
 > J'ai eu la chance de lire Futurs Conditionnels grâce à la compagne Ulule. Je suis fan, vraiment très bien écrites ces nouvelles :)<br>
 > Le format du bouqin et la qualité générale sont juste parfaits. Les dessins coolent bien aux textes, un sans faute si j'ôse dire.
 
-> [Elle] Merci beaucoup :hugging face: ce livre m'aura donné beaucoup de sueurs froides et de stress :smiling face with open mouth and cold sweat: la mise en page nous a posé beaucoup de soucis
+> [Elle] Merci beaucoup 🤗 ce livre m'aura donné beaucoup de sueurs froides et de stress 😅 la mise en page nous a posé beaucoup de soucis
 
 > [Moi] Si je peux me permettre, je ne sais pas si c'est voulu ou non, j'ai repéré quelques coquilles :<br>
 > - sur la 4ème de couverture, il y a comme des soucis d'encodage (c'est sûrement fait exprès)<br>
@@ -56,7 +56,7 @@
 > Pour toi, on est d'accord que c'est plus rentable que je passe pas toi directement pour acheter un bouqin plutôt qu'un autre site ?
 
 > [Elle] Merci, ça me touche ^^<br>
-> Effectivement c'est plus rentable pour moi de passer en direct (paypal ou cb). Il y aura des frais de port, contrairement à Amazon, mais chaque bouquin sera dédicacé :winking face:
+> Effectivement c'est plus rentable pour moi de passer en direct (paypal ou cb). Il y aura des frais de port, contrairement à Amazon, mais chaque bouquin sera dédicacé 😉
 
 > [Moi] C'est noté, je préfère mille fois payer des fdp que passer par amzn.
 
