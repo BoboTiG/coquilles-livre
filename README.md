@@ -5,6 +5,8 @@ Détails des erreurs trouvées dans les livres, et parfois reportées aux auteur
 ---
 
 Caractères utiles pour les rapports : `« » “ ” … ’ – œ æ`
+<br>
+*Smileys* utilent pour les rapports : 😄 😅 😑 
 
 ---
 
