@@ -31,7 +31,7 @@ Coquille : "pour" ne serait-il pas de trop ?
 > Le premier "pour" ne serait-il pas de trop ?
 
 > [Elle] Hello ! Merci :grinning face with smiling eyes:<br>
-> Effectivement il y avait une autre couv' à la base (le gros plan sur le visage) et malheureusement elle était trop "douce" , certaines personnes étaient choquées de lire qu"elle écrase des gens à mains nues Smiling face with open mouth and cold sweat du coup j'ai opté pour quelque chose d'un peu plus menaçant.
+> Effectivement il y avait une autre couv' à la base (le gros plan sur le visage) et malheureusement elle était trop "douce", certaines personnes étaient choquées de lire qu"elle écrase des gens à mains nues Smiling face with open mouth and cold sweat du coup j'ai opté pour quelque chose d'un peu plus menaçant.
 
 > [Elle] Ah zut, désolée pour les coquilles restantes. Je suis vraiment mauvaise à ça u\_\_\_u (et la correctrice que j'avais pris etait pas très bonne, j'ai dû tout refaire moi-même alors que c'est pas mon fort :smiling face with open mouth and cold sweat:)
 
