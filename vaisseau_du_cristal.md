@@ -30,12 +30,16 @@ Coquille : "pour" ne serait-il pas de trop ?
 > """<br>
 > Le premier "pour" ne serait-il pas de trop ?
 
-> [Elle] Hello ! Merci :grinning face with smiling eyes:<br>
-> Effectivement il y avait une autre couv' à la base (le gros plan sur le visage) et malheureusement elle était trop "douce", certaines personnes étaient choquées de lire qu"elle écrase des gens à mains nues :smiling face with open mouth and cold sweat: du coup j'ai opté pour quelque chose d'un peu plus menaçant.
+> [Elle] Hello ! Merci 😄<br>
+> Effectivement il y avait une autre couv' à la base (le gros plan sur le visage) et malheureusement elle était trop "douce", certaines personnes étaient choquées de lire qu"elle écrase des gens à mains nues 😅 du coup j'ai opté pour quelque chose d'un peu plus menaçant.
 
-> [Elle] Ah zut, désolée pour les coquilles restantes. Je suis vraiment mauvaise à ça u\_\_\_u (et la correctrice que j'avais pris etait pas très bonne, j'ai dû tout refaire moi-même alors que c'est pas mon fort :smiling face with open mouth and cold sweat:)
+> [Elle] Ah zut, désolée pour les coquilles restantes. Je suis vraiment mauvaise à ça u\_\_\_u (et la correctrice que j'avais pris etait pas très bonne, j'ai dû tout refaire moi-même alors que c'est pas mon fort 😅)
 
 > [Moi] Non, non, ne t'excuse pas ! Je n'imagine pas la quantité de travail qu'un livre représente et c'est normal que certains détails passent au travers ;)
+
+> [Elle] C'est épuisant 😅 j'essaie vraiment de m'améliorer
+
+> [Elle] Mais autant j'arrive à dompter mon trouble de l'attention pour écrire,  la correction c'est une autre histoire 😑
 
 > [Moi] Si jamais tu serais pour avoir un relecteur en plus, je suis preneur du "boulot", gratuitement, car ça me permettrait d'avoir de ssupers livres en avant-première tout en t'aidant dans ta tache. Si jamais tu trouves l'idée intéressante, tu sauras où me trouver (et j'insiste sur le côté sans rémunération, toi et moi y trouvons notre compte donc c'est wakatépé baboune).
 
