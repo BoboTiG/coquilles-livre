@@ -81,7 +81,7 @@ Sa réponse :
 > <br>
 > Misha
 
-Ma Réponse :
+Ma réponse :
 
 > J'imaginais bien qu'il s'agissait d'une soucis ailleurs que dans ton texte ;)<br>
 > <br>
