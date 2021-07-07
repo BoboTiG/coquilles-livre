@@ -18,7 +18,7 @@ Liste des livres (ordre alphabétique) :
 4. ✔ [Remembrance of Earth's Past, tome 1 – Le problème à trois corps](remembrance_of_earth_past-t1-probleme_a_trois_corps.md)
 5. 📝 [Remembrance of Earth's Past, tome 2 – Le forêt sombre](remembrance_of_earth_past-t2-foret_sombre.md)
 6. ✅ [Le vaisseau du cristal](vaisseau_du_cristal.md)
-7. ✔ [*je* ne suis pas une fille ben](je_ne_suis_pas_une_fille_bien.md)
+7. ✔ [*je* ne suis pas une fille bien,](je_ne_suis_pas_une_fille_bien.md)
 
 
 Légende :
